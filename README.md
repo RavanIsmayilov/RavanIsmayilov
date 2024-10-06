@@ -31,8 +31,8 @@
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
-<p><img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanismayilov&show_icons=true&locale=en&layout=compact&theme=neon" alt="ravanismayilov" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravanismayilov&show_icons=true&locale=en&layout=compact&theme=neon" alt="ravanismayilov" /></p>
 
-<p>&nbsp;<img align="center" height="200em"  src="https://github-readme-stats.vercel.app/api?username=ravanismayilov&show_icons=true&locale=en&theme=neon" alt="ravanismayilov" /></p>
+<p>&nbsp;<img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=ravanismayilov&show_icons=true&locale=en&theme=neon" alt="ravanismayilov" /></p>
 
-<p><img align="center"  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravanismayilov&theme=neon" alt="ravanismayilov" /></p>
+<p><img align="center"  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravanismayilov&theme=neon" alt="ravanismayilov" /></p>
