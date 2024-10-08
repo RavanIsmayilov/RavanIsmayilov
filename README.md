@@ -5,6 +5,12 @@
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="100%"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+Quick learner with a passion for teaching, enthusiastic, self-driven, dependable, responsible, and hardworking. Highly motivated to achieve goals.
+
+* 🌍  I'm based in Baku, Azerbaijan
+* ✉️  You can contact me at [rvanismayilov70@gmail.com](mailto:rvanismayilov70@gmail.com)
+* 🧠  I'm learning Java
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
