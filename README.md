@@ -1,4 +1,3 @@
-
 Hi ! My name is Ravan
 =========================================================================================================================================
 
@@ -46,18 +45,18 @@ Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsib
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/RavanIsmayilov"><img src="https://github-readme-stats.vercel.app/api?username=RavanIsmayilov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RavanIsmayilov's GitHub stats" /></a>
+<a href="https://github.com/RavanIsmayilov"><img src="https://github-readme-stats-beta-ten-16.vercel.app/api?username=RavanIsmayilov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RavanIsmayilov's GitHub stats" /></a>
 
 <a href="http://www.github.com/RavanIsmayilov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RavanIsmayilov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/RavanIsmayilov"><img src="https://github-readme-activity-graph.vercel.app/graph?username=RavanIsmayilov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/RavanIsmayilov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavanIsmayilov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RavanIsmayilov" align="left"><img src="https://github-readme-stats-beta-ten-16.vercel.app/api/top-langs/?username=RavanIsmayilov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RavanIsmayilov/gymkids" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavanIsmayilov&repo=gymkids&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RavanIsmayilov/Finally-Project-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavanIsmayilov&repo=Finally-Project-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/RavanIsmayilov/JS-algoritm" align="left"><img align="left" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=JS-algoritm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RavanIsmayilov/React-fetchAPI" align="right"><img align="right" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=React-fetchAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/RavanIsmayilov/EduWallet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavanIsmayilov&repo=EduWallet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RavanIsmayilov/SmartPro" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavanIsmayilov&repo=SmartPro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/RavanIsmayilov/React-OTP-Timer" align="left"><img align="left" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=React-OTP-Timer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RavanIsmayilov/React-Password-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=React-Password-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
