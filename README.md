@@ -59,30 +59,24 @@ I build web, backend, and mobile applications using technologies such as React, 
 ## My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/RavanIsmayilov">
-    <img
-      height="200"
-      src="https://github-stats-extended.vercel.app/api?username=RavanIsmayilov&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
-      alt="Ravan Ismayilov's GitHub Statistics"
-    />
-  </a>
-  <a href="https://github.com/RavanIsmayilov">
-    <img
-      height="200"
-      src="https://streak-stats.demolab.com?user=RavanIsmayilov&background=1C1917&border=1C1917&stroke=FFFFFF&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true"
-      alt="Ravan Ismayilov's GitHub Streak"
-    />
-  </a>
+  <a href="https://github.com/RavanIsmayilov"><img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=RavanIsmayilov&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+    alt="Ravan Ismayilov's GitHub Statistics"
+  /></a>
+  <a href="https://github.com/RavanIsmayilov"><img
+    height="170"
+    src="https://streak-stats.demolab.com?user=RavanIsmayilov&background=1C1917&border=1C1917&stroke=FFFFFF&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true"
+    alt="Ravan Ismayilov's GitHub Streak"
+  /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RavanIsmayilov">
-    <img
-      width="40%"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=RavanIsmayilov&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages"
-      alt="Ravan Ismayilov's Top Languages"
-    />
-  </a>
+  <a href="https://github.com/RavanIsmayilov"><img
+    width="40%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=RavanIsmayilov&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages"
+    alt="Ravan Ismayilov's Top Languages"
+  /></a>
 </p>
 
 ## Featured Projects
