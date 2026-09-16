@@ -1,40 +1,122 @@
 Hi ! My name is Ravan
 =========================================================================================================================================
 
-Full-stack Web and Mobile Developer ( React, Angular, TypeScript, Javascript, Flutter, Node, Python )
+Software Engineer | Full-stack & Mobile Developer
 -------------------
 
-Quick learner, loves to teach, enthusiastic, self-motivated, reliable, responsible, hardworking and highly motivated.
+I build web, backend, and mobile applications using technologies such as React, Angular, TypeScript, Node.js, Java, C#, Python, and Flutter. I enjoy turning practical ideas into working software and improving my skills through real-world projects.
 
-* 🌍  I'm based in Baku, Azerbaijan
-* ✉️  You can contact me at [rvanismayilov70@gmail.com](mailto:rvanismayilov70@gmail.com)
-* 🧠  I'm learning Python
+* 🌍 Based in Baku, Azerbaijan
+* 💼 Open to software development opportunities
+* 🔧 Currently focused on backend engineering and system design
+* 🤝 Open to collaborating on meaningful projects
+* ✉️ Contact me at [rvanismayilov70@gmail.com](mailto:rvanismayilov70@gmail.com)
+
 
 ### Skills
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,py,ts,html,react,nextjs,angular,nodejs,express,jquery,css,sass,tailwind,bootstrap,materialui,redux,postgres,firebase,django,figma" /> </p>
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,java,cs,py,go,cpp,dart,html,css,scss,react,nextjs,angular,redux,tailwind,bootstrap,materialui,nodejs,express,nestjs,dotnet,spring,fastapi,flutter,postgres,mysql,redis,firebase,docker,git,github,postman,figma&perline=17&theme=dark"
+    alt="Ravan Ismayilov's Technical Skills"
+  />
+</p>
 
 
-### Socials
+### Connect with Me
 
-<p align="left"> <a href="https://dev.to/ravanismayilov" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a> <a href="https://github.com/RavanIsmayilov" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/r%C9%99van-ismayilov/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravanismayilov/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/RavanIsmayilov" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://dev.to/ravanismayilov" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
+      alt="Dev.to"
+    />
+  </a>
+  <a href="mailto:rvanismayilov70@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/RavanIsmayilov"><img src="https://github-readme-stats-beta-ten-16.vercel.app/api?username=RavanIsmayilov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RavanIsmayilov's GitHub stats" /></a>
+## My GitHub Stats
 
-<a href="http://www.github.com/RavanIsmayilov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RavanIsmayilov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/RavanIsmayilov">
+    <img
+      height="200"
+      src="https://github-stats-extended.vercel.app/api?username=RavanIsmayilov&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      alt="Ravan Ismayilov's GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/RavanIsmayilov">
+    <img
+      height="200"
+      src="https://streak-stats.demolab.com?user=RavanIsmayilov&background=1C1917&border=1C1917&stroke=FFFFFF&ring=0891B2&fire=0891B2&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true"
+      alt="Ravan Ismayilov's GitHub Streak"
+    />
+  </a>
+</p>
 
-<a href="http://www.github.com/RavanIsmayilov"><img src="https://github-readme-activity-graph.vercel.app/graph?username=RavanIsmayilov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
+<p align="center">
+  <a href="https://github.com/RavanIsmayilov">
+    <img
+      width="40%"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=RavanIsmayilov&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages"
+      alt="Ravan Ismayilov's Top Languages"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/RavanIsmayilov" align="left"><img src="https://github-readme-stats-beta-ten-16.vercel.app/api/top-langs/?username=RavanIsmayilov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Featured Projects
 
-<b>Top Repositories</b>
+<p align="center">
+  <a href="https://github.com/RavanIsmayilov/FlowBoard">
+    <img
+      width="49%"
+      src="https://github-stats-extended.vercel.app/api/pin?username=RavanIsmayilov&repo=FlowBoard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      alt="FlowBoard — Full-stack Project"
+    />
+  </a>
+  <a href="https://github.com/RavanIsmayilov/ledgercore">
+    <img
+      width="49%"
+      src="https://github-stats-extended.vercel.app/api/pin?username=RavanIsmayilov&repo=ledgercore&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      alt="LedgerCore — Java Project"
+    />
+  </a>
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/RavanIsmayilov/JS-algoritm" align="left"><img align="left" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=JS-algoritm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RavanIsmayilov/React-fetchAPI" align="right"><img align="right" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=React-fetchAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/RavanIsmayilov/React-OTP-Timer" align="left"><img align="left" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=React-OTP-Timer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RavanIsmayilov/React-Password-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats-beta-ten-16.vercel.app/api/pin/?username=RavanIsmayilov&repo=React-Password-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<p align="center">
+  <a href="https://github.com/RavanIsmayilov/realtimeops">
+    <img
+      width="49%"
+      src="https://github-stats-extended.vercel.app/api/pin?username=RavanIsmayilov&repo=realtimeops&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      alt="RealtimeOps — C# Project"
+    />
+  </a>
+  <a href="https://github.com/RavanIsmayilov/chainscope">
+    <img
+      width="49%"
+      src="https://github-stats-extended.vercel.app/api/pin?username=RavanIsmayilov&repo=chainscope&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      alt="ChainScope — Python Project"
+    />
+  </a>
+</p>
